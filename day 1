@@ -1,0 +1,49 @@
+Q1) what is your understanding of blockchain ?
+
+Ans 1) When i was reading about bitcion minning , i got to know that all the transcations preformed by the specific bitcoin minner are stored in blocks and this all together forms the block
+chain. sloving complex math problems and number of transactions they recieve bitcion. It hepls in cryptocuurrency. After learrning from Letsupgrade course, i understand blockchain in more detail , like it is used for security , no tempering of data, validity
+, how we can prevent hacking by use of blockchain and immutable.
+
+Q2) What is the core problem Blockchain is trying to solve ?
+
+Ans 2) Core problems Blockchain is trying to solve are Security , Authenticity,Data losses, data security and trust by making legder public.  Main aim of blockchain is to remove the middle men. 
+
+Q3) What are the few features Blockchain will give you ?
+
+Ans 3) Features of blockchain are :
+        
+       1. Verifiable
+       2. Unchangeable
+       3. Tamper proof
+       4. Immutable
+       5. Decentralized
+       
+       
+Q4) What all things Block contains ?
+
+Ans 4) Block cointains :
+
+        1. Block number
+        2. Records
+        3. Previous block signature
+        4. Current Block signature
+        5. Mining Key
+        
+Q5)  How is the verifiability of Blockchain is been attained ?
+
+Ans 5)  Verifiabillity hepls in data security so that there will be no tempering og data.
+
+        Verifiabillity is attained with the help of the uniquie key for the data in each block.
+   
+   Formula :
+   present block signature= data of present block + previous block signature
+   
+   ex) let signature of first block be 'sig1'
+         data of first of first block= sig 1
+        
+        for second block , signature will be:
+        sig1 + data of second block= sig2
+        
+        and so on.....
+  
+
